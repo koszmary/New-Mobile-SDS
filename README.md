@@ -6,10 +6,15 @@ Because of this, I created a new repository where I uploaded .zip files from And
 Everything should work properly (at least it does on my end), but if I forgot to include anything important in the new repository, or if any files are not working and that would result in the project not being accepted, please let me know.
 
 Running projects:
+
 Add App: https://youtube.com/shorts/sZBNsOSATew
+
 Launcher App: https://youtube.com/shorts/oNH2mRLTq8k
+
 3rd video App (List): https://youtube.com/shorts/UeZhHKLUG2Y?feature=share
+
 My project: https://youtube.com/shorts/8qak7XRJdqE
+
 
 Old repository:
 https://github.com/koszmary/Mobile
