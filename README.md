@@ -1,3 +1,4 @@
+## Maria Małysa 003005073
 # New-Mobile-SDS
 I’ve been working on my project, but unfortunately, for a while I wasn’t committing as often as I should have. When I finally tried to commit all my changes, I encountered an error saying that the changes were too large. After several attempts, I managed to commit them by force, but now I’m unable to push the changes. I keep getting an error—push reaches 99% and then fails. I tried everything I know to fix it, but nothing worked, and the repo contains many commits that I can not push.
 
